@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="score_text" type="id">score_text</item>
+    <item name="wrong_text" type="id">wrong_text</item>
+    <item name="restart_button" type="id">restart_button</item>
+</resources>
